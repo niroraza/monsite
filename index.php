@@ -9,9 +9,10 @@
 </head>
 <body>
     <div class="container">
-    <h1 class="display-4 txt-center text-info">Decouverte de Github </h1><hr>
+    <h1 class="display-4 text-center text-info">Decouverte de Github </h1><hr>
     <p> 10 Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis earum reprehenderit rerum. Id, qui ab rerum hic quidem officiis minima nostrum molestias dolor voluptate itaque ad sit dolores doloremque et.git add --
     </p>
+    <h2 class="text-success text-center"> utilistation de github</h2>
     </div>
 </body>
 </html>
